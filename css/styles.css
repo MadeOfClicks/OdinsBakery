@@ -15,6 +15,7 @@ body {
 img {
     height: auto;
     width: 256px;
+    border-radius: 25px;
   }
 
 /* Custom styles */
