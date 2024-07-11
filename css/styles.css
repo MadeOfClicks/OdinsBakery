@@ -18,6 +18,18 @@ img {
     border-radius: 25px;
   }
 
+a {
+    display: block;
+    margin: 10px;
+    padding: 0px;
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25px;
+    width: 150px
+}
+
 /* Custom styles */
 
 #backhome {
@@ -30,4 +42,19 @@ img {
     text-decoration: none;
     border-radius: 25px;
     width: 150px
+}
+
+.no-bullets {
+    list-style-type: none;
+}
+
+.ingredients {
+    background-color: #333333;
+    color: #ffffff;
+    border-radius: 25px;
+    width: 400px
+}
+
+.h2 {
+    margin-left: 40px;
 }
