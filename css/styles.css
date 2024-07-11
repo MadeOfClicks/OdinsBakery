@@ -1,0 +1,32 @@
+/* Reset default browser styles */
+html, body {
+    margin: 8;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333333;
+}
+
+img {
+    height: auto;
+    width: 256px;
+  }
+
+/* Custom styles */
+
+#backhome {
+    display: block;
+    margin: 0;
+    padding: 0px;
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25px;
+    width: 150px
+}
