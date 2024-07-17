@@ -41,21 +41,29 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    gap: 8px;
 }
 
 .no-bullets {
     list-style-type: none;
 }
 
+.description {
+    margin-bottom: 8px;
+    width: 600px;
+}
+    
 .ingredients {
     background-color: #333333;
     color: #ffffff;
     border-radius: 25px;
-    width: 400px
+    width: 400px;
 }
 
-.h2 {
-    margin-left: 40px;
+.steps {
+    text-align: left;
+    width: 800px
 }
 
 /* 4. Attribute Selector */
